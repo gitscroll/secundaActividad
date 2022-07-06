@@ -1,2 +1,3 @@
 # secundaActividad
 Brian
+Daniel Aranivar
